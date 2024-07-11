@@ -1,0 +1,5 @@
+boiler plate
+formatted print
+primitive type 
+min value and max value of primitive types
+input of primitive types using Scanner class and adressing the next line consuming problem
